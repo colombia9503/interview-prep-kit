@@ -1,7 +1,6 @@
 package com.sumana.neetcode250;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class GroupAnagrams {
     public static List<List<String>> groupAnagrams(String[] strs) {
